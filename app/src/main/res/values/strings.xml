@@ -6,4 +6,6 @@
     <string name="settings_label">Settings</string>
     <string name="enable_geofences">Enable Geofences</string>
     <string name="location_permissions">Location Permissions</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="need_permission">Need Permission</string>
 </resources>
