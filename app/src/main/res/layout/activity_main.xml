@@ -127,6 +127,16 @@
 
     </LinearLayout>
 
-    <!-- TODO (9) Add the "Powered by Google" logo and a link to Google's privacy policy here -->
+    <!-- COMPLETED (9) Add the "Powered by Google" logo and a link to Google's privacy policy here -->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/powered_by_google_light"
+        android:padding="16dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
     
 </RelativeLayout>
